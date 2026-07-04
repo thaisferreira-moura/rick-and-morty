@@ -12,7 +12,16 @@ header {
     justify-content: flex-end;
     align-items: center;
     gap: 6px;
+
 }
+
+.logo{
+    width: 60px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
 body{
     background-color: #0F0F0F;
     font-family: 'Poppins', sans-serif;
@@ -30,7 +39,11 @@ body{
 
 
 .informacoes{
-    max-width: 500px;
+    max-width: 900px;
+}
+
+.informacoes img{
+    width: 500px;
 }
 
 .informacoes h1{
