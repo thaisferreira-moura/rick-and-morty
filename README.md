@@ -100,7 +100,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE AUTOR-->
-## 🦸 Autor
+## 👩🏼‍💻 Autora
 
 <a href="www.linkedin.com/in/thaisferreirademoura2004">
 Thais Ferreira de Moura</a>
