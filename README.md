@@ -8,8 +8,7 @@
 <!-- MODELO MENU DE NAVEGAÇÃO -->
 <p align="center">
  <a href="#-Descrição-do-entregável">Descrição do Entregável</a> •
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-layout">Layout</a> • 
+ <a href="#-sobre-o-projeto">Sobre</a> • • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
@@ -44,7 +43,7 @@ Durante o desenvolvimento, foram aplicados conceitos como fetch API, manipulaç�
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- EXEMPLO DE LAYOUT: -->
-## 🎨 Layout
+
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
 
