@@ -1,0 +1,40 @@
+/*--- RESET do CSS ---*/
+* {
+    border: 0; /* Borda do elemento -> Zeramos */
+    margin: 0; /* Distância externa -> Zeramos */
+    padding: 0; /* Espaçamento interno -> Zeramos */
+    box-sizing: border-box; /* Respeitar a largura e altura */
+}
+
+/* --- VARIÁVEIS CSS --- */
+:root {
+
+    /*--- CORES ---*/
+    --color-blue: #11B0C8; /* Variável de Cor */
+    --color-white: #FFFFFF; /* Variável de Cor */
+    --color-black: #000000; /* Variável de Cor */
+    --color-black-2: #1A1A1A; /* Variável de Cor */
+    --color-black-3: #0F0F0F; /* Variável de Cor */
+
+    /*--- FONTES ---*/
+    /* SIZE */
+    --font-size-h1: 40px; /* Variável tamanho da fonte */
+    --font-size-h2: 35px; /* Variável tamanho da fonte */
+    --font-size-h3: 30px; /* Variável tamanho da fonte */
+    --font-size-h4: 25px; /* Variável tamanho da fonte */
+    --font-size-body: 20px; /* Variável tamanho da fonte */
+    --font-size-button: 20px; /* Variável tamanho da fonte */
+    --font-size-caption: 16px; /* Variável tamanho da fonte */
+
+    /* WEIGHT */
+    --font-weight-h1: 600; /* Variável Espessura da Fonte */
+    --font-weight-h2: 600; /* Variável Espessura da Fonte */
+    --font-weight-h3: 600; /* Variável Espessura da Fonte */
+    --font-weight-h4: 500; /* Variável Espessura da Fonte */
+    --font-weight-body: 400; /* Variável Espessura da Fonte */
+    --font-weight-button: 700; /* Variável Espessura da Fonte */
+    --font-weight-caption: 400; /* Variável Espessura da Fonte */
+
+    /* FAMILY */
+    --font-primary: "Poppins", sans-serif; /* Fonte secundária utilizada para textos */
+}
