@@ -26,7 +26,7 @@
 
 - index.html (Arquivo principal do projeto)
 
-- JavaScript (Consumo de API)
+- script.js (Consumo de API)
 ---
 
 <!-- ---------------------------------------------------------------------- -->
